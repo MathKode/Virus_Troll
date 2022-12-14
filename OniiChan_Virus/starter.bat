@@ -1,7 +1,7 @@
 @rem Make the script restart at each session...
 @echo off
 
-xcopy /s OniiChan %AppData%\OniiChan /Y
+xcopy /s OniiChan %AppData%\OniiChan /Y /I
 
 set TARGET='%AppData%\OniiChan\launch.bat'
 set SHORTCUT='%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\oniichan.lnk'
