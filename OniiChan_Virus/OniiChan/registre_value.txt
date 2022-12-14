@@ -1,0 +1,34 @@
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\.Default\.Current,C:\windows\media\Windows Background.wav
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\AppGPFault\.Current,
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\CCSelect\.Current,
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Close\.Current,
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm\.Current,C:\windows\media\Windows Foreground.wav
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\DeviceConnect\.Current,C:\windows\media\Windows Hardware Insert.wav
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\DeviceDisconnect\.Current,C:\windows\media\Windows Hardware Remove.wav
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\DeviceFail\.Current,C:\windows\media\Windows Hardware Fail.wav
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\FaxBeep\.Current,C:\windows\media\Windows Notify Email.wav
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\LowBatteryAlarm\.Current,C:\windows\media\Windows Background.wav
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MailBeep\.Current,C:\windows\media\Windows Notify Email.wav
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Maximize\.Current,
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MenuCommand\.Current,
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MenuPopup\.Current,
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MessageNudge\.Current,C:\windows\media\Windows Message Nudge.wav,
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Minimize\.Current,
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Default\.Current,C:\windows\media\Windows Notify System Generic.wav
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.IM,
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.SMS\.Current,C:\windows\media\Windows Notify Messaging.wav
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Open\.Current,
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\PrintComplete\.Current,
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\ProximityConnection\.Current,C:\windows\media\Windows Proximity Connection.wav
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\RestoreDown\.Current,
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\RestoreUp\.Current,
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemHand\.Current,C:\windows\media\Windows Foreground.wav
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemNotification\.Current,C:\windows\media\Windows Background.wav
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\MoveMenuItem\.Current,
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\Navigating\.Current,
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\FeedDiscovered\.current,
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin\.Current,
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\BlockedPopup\.current,
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\ActivatingDocument\.Current,
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Maximize\.Current,
+HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\AppGPFault\.Current,
