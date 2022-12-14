@@ -11,3 +11,6 @@ Copy this virus on a USB Key and then, plug it to your Victim PC... Then :
 .\reset.bat
 ```
 Enjoyr :-)
+
+**NOTE :** You can adjust the volume level in the file OniiChan\Volume.bat
+
