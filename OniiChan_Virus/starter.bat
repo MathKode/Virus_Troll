@@ -9,5 +9,7 @@ set PWS=powershell.exe -ExecutionPolicy Bypass -NoLogo -NonInteractive -NoProfil
 
 %PWS% -Command "$ws = New-Object -ComObject WScript.Shell; $s = $ws.CreateShortcut(%SHORTCUT%); $S.TargetPath = %TARGET%; $S.Save()"
 
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\oniichan.ln
+
 exit
 
