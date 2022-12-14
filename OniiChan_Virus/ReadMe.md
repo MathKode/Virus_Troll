@@ -5,7 +5,6 @@ Copy this virus on a USB Key and then, plug it to your Victim PC... Then :
 - Execute the virus
 ```bat
 .\starter.bat
-R
 ```
 - Reset the Sound Panel
 ```
