@@ -3,8 +3,12 @@
 
 set pre_path=%AppData%\OniiChan
 
+@rem Volume 0-65000
+set VOLUME=30000
+
 :loop
-%pre_path%\nircmd.exe changesysvolume 65535
+@rem %pre_path%\nircmd.exe changesysvolume 65535
+%pre_path%\nircmd.exe setsysvolume %VOLUME%
 %pre_path%\nircmd.exe mutesysvolume 0
 timeout /t 30
 goto loop
