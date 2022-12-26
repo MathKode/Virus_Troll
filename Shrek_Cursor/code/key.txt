@@ -1,0 +1,16 @@
+Arrow,%SYSTEMROOT%\Cursors\aero_arrow.cur
+AppStarting,%SystemRoot%\cursors\aero_working.ani
+Hand,%SystemRoot%\cursors\aero_link.cur
+Help,%SYSTEMROOT%\Cursors\aero_ew_l.cur
+IBeam,
+No,%SystemRoot%\cursors\aero_unavail.cur
+NWPen,%SystemRoot%\cursors\aero_pen.cur
+Person,
+Pin,
+SizeAll,%SystemRoot%\cursors\aero_move.cur
+SizeNESW,%SystemRoot%\cursors\aero_nesw.cur
+SizeNS,%SystemRoot%\cursors\aero_ns.cur
+SizeNWSE,%SystemRoot%\cursors\aero_nwse.cur
+SizeWE,%SystemRoot%\cursors\aero_ew.cur
+UpArrow,%SystemRoot%\cursors\aero_up.cur
+Wait,%SystemRoot%\cursors\aero_busy.ani
