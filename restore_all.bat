@@ -3,32 +3,32 @@
 
 echo --- Infinite_Calculator ---
 cd Infinite_Calculator
-.\restore.bat
+wscript.exe "..\sample.vbs" ".\restore.bat"
 cd ..
 
 echo --- Black_Screen ---
 cd Black_Screen
-.\restore.bat
+wscript.exe "..\sample.vbs" ".\restore.bat"
 cd ..
 
 echo --- Shrek_Cursor ---
 cd Shrek_Cursor
-.\restore.bat
+wscript.exe "..\sample.vbs" ".\restore.bat"
 cd ..
 
 echo --- BackGround_Virus ---
 cd BackGround_Virus
-.\restore.bat
+wscript.exe "..\sample.vbs" ".\restore.bat"
 cd ..
 
 echo --- OniiChan_Virus ---
 cd OniiChan_Virus
-.\reset.bat
+wscript.exe "..\sample.vbs" ".\reset.bat"
 cd ..
 
 echo --- Welcome_Message ---
 cd Welcome_Message
-.\restore.bat
+wscript.exe "..\sample.vbs" ".\restore.bat"
 cd ..
 
 echo --- END RESTORE ---
