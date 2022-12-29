@@ -6,6 +6,6 @@ FOR /F "delims=: skip=9 tokens=1,2" %%i IN ('netsh wlan show profiles') DO (
 	FOR /F "tokens=*" %%a IN ('echo%%j') DO (
 	    @rem Sans l'espace (dans %%a)
 	    echo %%a>> hack_wifi.txt
-	    netsh wlan show profiles "name=%%a" key=clear | findstr Contenu >> hack_wifi.txt
+	    netsh wlan show profiles "name=%%a" key=clear | findstr Cont >> hack_wifi.txt
         )
 )
