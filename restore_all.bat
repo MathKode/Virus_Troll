@@ -31,5 +31,10 @@ cd Welcome_Message
 wscript.exe "..\sample.vbs" ".\restore.bat"
 cd ..
 
+echo --- Cursor_Slider ---
+cd Cursor_Slider
+wscript.exe "..\sample.vbs" ".\restore.bat"
+cd ..
+
 echo --- END RESTORE ---
 pause
