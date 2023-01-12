@@ -1,7 +1,7 @@
 @rem Make the script restart at each session...
 @echo off
 
-xcopy /s OniiChan %AppData%\Darling /Y /I
+xcopy /s Darling %AppData%\Darling /Y /I
 
 set TARGET='%AppData%\OniiChan\launch.bat'
 set SHORTCUT='%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Darling.lnk'
